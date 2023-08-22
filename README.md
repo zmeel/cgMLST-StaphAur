@@ -1,4 +1,4 @@
-# Prokka annoted genes of the cgMSLT scheme of Enterococcus faecium
+# Prokka annoted genes of the cgMSLT scheme of Staphylococcus aureus
 <br>
 The Staphylococcus aureus reference strain (for the SeqSphere+ cgMLST scheme) consists of x sequences.
 The cgMLST scheme itself consists of 1861 sequences.<br><br>
