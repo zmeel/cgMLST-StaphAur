@@ -5,4 +5,5 @@ The cgMLST scheme itself consists of 1861 sequences.<br><br>
 
 1. The [sequence](https://raw.githubusercontent.com/zmeel/cgMLST-StaphAur/main/NC_002951.2%20Staphylococcus%20aureus%20subsp.%20aureus%20COL.fasta) of the reference strain Staphylococcus aureus COL was imported in SeqSphere+ and run throught the cgMLST scheme.<br>
 2. The [results](https://github.com/zmeel/cgMLST-StaphAur/blob/main/S.%20aureus_cgMLST_scheme.fasta) were exported and later used in ChatGPT<br>
-3. The [sequence](https://raw.githubusercontent.com/zmeel/cgMLST-StaphAur/main/NC_002951.2%20Staphylococcus%20aureus%20subsp.%20aureus%20COL.fasta) of the reference strain Staphylococcus aureus COL was also uploaded to Galaxy and Prokka was run to annotate the whole genome.
+3. The [sequence](https://raw.githubusercontent.com/zmeel/cgMLST-StaphAur/main/NC_002951.2%20Staphylococcus%20aureus%20subsp.%20aureus%20COL.fasta) of the reference strain Staphylococcus aureus COL was also uploaded to Galaxy and Prokka was run to annotate the whole genome.<br>
+4. The [resulting GFF3 file]() was used in ChatGPT
